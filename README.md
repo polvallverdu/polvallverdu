@@ -86,10 +86,6 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
-<img src=""> 
-<img src=""> 
-<img src=""> 
-<img src=""> 
 </div>
 
 ## Latest Videos
