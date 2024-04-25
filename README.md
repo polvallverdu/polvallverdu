@@ -103,6 +103,7 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 ## Latest Videos
 
+<div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
 [![¿Cómo guardar localizaciones y manipular bloques en Minecraft? - Spigot API](https://ytcards.demolab.com/?id=Z71t1oIsGqk&title=%C2%BFC%C3%B3mo+guardar+localizaciones+y+manipular+bloques+en+Minecraft%3F+-+Spigot+API&lang=en&timestamp=1713982200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Cómo guardar localizaciones y manipular bloques en Minecraft? - Spigot API")](https://www.youtube.com/watch?v=Z71t1oIsGqk)
 [![Crea mundos personalizados en Minecraft - Spigot API](https://ytcards.demolab.com/?id=Onzzz3QBLw8&title=Crea+mundos+personalizados+en+Minecraft+-+Spigot+API&lang=en&timestamp=1713895800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crea mundos personalizados en Minecraft - Spigot API")](https://www.youtube.com/watch?v=Onzzz3QBLw8)
@@ -111,8 +112,9 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 [![Escuchar eventos de Minecraft - Spigot Listeners](https://ytcards.demolab.com/?id=M_dJThOujYI&title=Escuchar+eventos+de+Minecraft+-+Spigot+Listeners&lang=en&timestamp=1713550200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Escuchar eventos de Minecraft - Spigot Listeners")](https://www.youtube.com/watch?v=M_dJThOujYI)
 [![Cómo funcionan los textos en Minecraft? - Kyori Adventure](https://ytcards.demolab.com/?id=SaBHUUenu5g&title=C%C3%B3mo+funcionan+los+textos+en+Minecraft%3F+-+Kyori+Adventure&lang=en&timestamp=1713463800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cómo funcionan los textos en Minecraft? - Kyori Adventure")](https://www.youtube.com/watch?v=SaBHUUenu5g)
 <!-- END YOUTUBE-CARDS -->
+</div>
 
-<!-- ## Other Socials -->
+<!-- TODO: ## Other Socials -->
 
 ## Support Me
 
@@ -131,6 +133,8 @@ _Psst: You'll get 💎 Premium benefits. If I was you I would consider it better
 </div>
 
 ## Latest Blog Posts
+
+<!-- TODO -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
