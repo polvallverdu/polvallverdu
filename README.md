@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://www.youtube.com/@pol_vallverdu" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCO5URSEarFoa5mI7-qaXllQ?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=SUSCRIPTORES&labelColor=%23ff0000&color=%23C90A0A&link=https%3A%2F%2Fyoutube.com%2F%40pol_vallverdu" alt="YouTube Channel Subscribers">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCO5URSEarFoa5mI7-qaXllQ?style=for-the-badge&logo=youtube&logoColor=%23ffffff&label=SUBSCRIBERS&labelColor=%23ff0000&color=%23C90A0A&link=https%3A%2F%2Fyoutube.com%2F%40pol_vallverdu" alt="YouTube Channel Subscribers">
 </a>
 <!-- <span style="width: 8px;"> </span>
 <a href="https://www.youtube.com/@pol_vallverdu" target="_blank">
@@ -19,7 +19,7 @@
 </a>
 <span style="width: 8px;"> </span>
 <a href="https://x.com/pol_vallverdu" target="_blank">
-<img src="https://img.shields.io/badge/pol_vallverdu-000000?style=for-the-badge&logo=x&logoColor=%23fffff" alt="X Follow">
+<img src="https://img.shields.io/badge/FOLLOW ME-000000?style=for-the-badge&logo=x&logoColor=%23fffff" alt="X Follow">
 </a>
 <span style="width: 8px;"> </span>
 <a href="https://polv.dev/l/discord" target="_blank">
@@ -35,7 +35,7 @@
 </a>
   <span style="width: 8px;"> </span>
 <a href="https://soundcloud.com/pol_vallverdu" target="_blank">
-<img src="https://img.shields.io/badge/pol_vallverdu-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud">
+<img src="https://img.shields.io/badge/SOUNDCLOUD-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud">
 </a>
 </div>
 
