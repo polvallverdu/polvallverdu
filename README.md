@@ -45,7 +45,31 @@
 
 If you've arrived here, you might have curiosity on what I'm working right now. Here you have some of my projects:
 
-- [Content Creation on Youtube](https://youtube.com/@pol_vallverdu)
+- [Content Creation](https://youtube.com/@pol_vallverdu)
+- [Soundicly](https://soundicly.com)
+- [inmeta.app](https://inmeta.app) _(currently in the kitchen)_
+
+## Latest Videos
+
+<div align="center">
+<!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Z71t1oIsGqk"><img src="https://ytcards.demolab.com/?id=Z71t1oIsGqk&title=%C2%BFC%C3%B3mo+guardar+localizaciones+y+manipular+bloques+en+Minecraft%3F+-+Spigot+API&lang=en&timestamp=1713982200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="¿Cómo guardar localizaciones y manipular bloques en Minecraft? - Spigot API" title="¿Cómo guardar localizaciones y manipular bloques en Minecraft? - Spigot API"></a>
+<a href="https://www.youtube.com/watch?v=Onzzz3QBLw8"><img src="https://ytcards.demolab.com/?id=Onzzz3QBLw8&title=Crea+mundos+personalizados+en+Minecraft+-+Spigot+API&lang=en&timestamp=1713895800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Crea mundos personalizados en Minecraft - Spigot API" title="Crea mundos personalizados en Minecraft - Spigot API"></a>
+<a href="https://www.youtube.com/watch?v=tFG3u--Y9c8"><img src="https://ytcards.demolab.com/?id=tFG3u--Y9c8&title=Crea+comandos+en+Minecraft+-+Spigot+API&lang=en&timestamp=1713809400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Crea comandos en Minecraft - Spigot API" title="Crea comandos en Minecraft - Spigot API"></a>
+<a href="https://www.youtube.com/watch?v=3q7ji4hguVU"><img src="https://ytcards.demolab.com/?id=3q7ji4hguVU&title=%C2%BFC%C3%B3mo+utilizar+entidades+de+Minecraft%3F+-+Spigot+API&lang=en&timestamp=1713636600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="¿Cómo utilizar entidades de Minecraft? - Spigot API" title="¿Cómo utilizar entidades de Minecraft? - Spigot API"></a>
+<a href="https://www.youtube.com/watch?v=M_dJThOujYI"><img src="https://ytcards.demolab.com/?id=M_dJThOujYI&title=Escuchar+eventos+de+Minecraft+-+Spigot+Listeners&lang=en&timestamp=1713550200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Escuchar eventos de Minecraft - Spigot Listeners" title="Escuchar eventos de Minecraft - Spigot Listeners"></a>
+<a href="https://www.youtube.com/watch?v=SaBHUUenu5g"><img src="https://ytcards.demolab.com/?id=SaBHUUenu5g&title=C%C3%B3mo+funcionan+los+textos+en+Minecraft%3F+-+Kyori+Adventure&lang=en&timestamp=1713463800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Cómo funcionan los textos en Minecraft? - Kyori Adventure" title="Cómo funcionan los textos en Minecraft? - Kyori Adventure"></a>
+<!-- END YOUTUBE-CARDS -->
+</div>
+
+<!-- TODO: ## Other Socials -->
+
+## Latest Blog Posts
+
+<!-- TODO -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Tecnology I use
 
@@ -101,21 +125,6 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## Latest Videos
-
-<div align="center">
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=Z71t1oIsGqk"><img src="https://ytcards.demolab.com/?id=Z71t1oIsGqk&title=%C2%BFC%C3%B3mo+guardar+localizaciones+y+manipular+bloques+en+Minecraft%3F+-+Spigot+API&lang=en&timestamp=1713982200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="¿Cómo guardar localizaciones y manipular bloques en Minecraft? - Spigot API" title="¿Cómo guardar localizaciones y manipular bloques en Minecraft? - Spigot API"></a>
-<a href="https://www.youtube.com/watch?v=Onzzz3QBLw8"><img src="https://ytcards.demolab.com/?id=Onzzz3QBLw8&title=Crea+mundos+personalizados+en+Minecraft+-+Spigot+API&lang=en&timestamp=1713895800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Crea mundos personalizados en Minecraft - Spigot API" title="Crea mundos personalizados en Minecraft - Spigot API"></a>
-<a href="https://www.youtube.com/watch?v=tFG3u--Y9c8"><img src="https://ytcards.demolab.com/?id=tFG3u--Y9c8&title=Crea+comandos+en+Minecraft+-+Spigot+API&lang=en&timestamp=1713809400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Crea comandos en Minecraft - Spigot API" title="Crea comandos en Minecraft - Spigot API"></a>
-<a href="https://www.youtube.com/watch?v=3q7ji4hguVU"><img src="https://ytcards.demolab.com/?id=3q7ji4hguVU&title=%C2%BFC%C3%B3mo+utilizar+entidades+de+Minecraft%3F+-+Spigot+API&lang=en&timestamp=1713636600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="¿Cómo utilizar entidades de Minecraft? - Spigot API" title="¿Cómo utilizar entidades de Minecraft? - Spigot API"></a>
-<a href="https://www.youtube.com/watch?v=M_dJThOujYI"><img src="https://ytcards.demolab.com/?id=M_dJThOujYI&title=Escuchar+eventos+de+Minecraft+-+Spigot+Listeners&lang=en&timestamp=1713550200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Escuchar eventos de Minecraft - Spigot Listeners" title="Escuchar eventos de Minecraft - Spigot Listeners"></a>
-<a href="https://www.youtube.com/watch?v=SaBHUUenu5g"><img src="https://ytcards.demolab.com/?id=SaBHUUenu5g&title=C%C3%B3mo+funcionan+los+textos+en+Minecraft%3F+-+Kyori+Adventure&lang=en&timestamp=1713463800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Cómo funcionan los textos en Minecraft? - Kyori Adventure" title="Cómo funcionan los textos en Minecraft? - Kyori Adventure"></a>
-<!-- END YOUTUBE-CARDS -->
-</div>
-
-<!-- TODO: ## Other Socials -->
-
 ## Support Me
 
 If you like what I do, consider supporting me!
@@ -131,13 +140,6 @@ _Psst: You'll get 💎 Premium benefits. If I was you I would consider it better
 <img src="https://invidget.switchblade.xyz/tW539JbHGF" alt="discord">
 </a>
 </div>
-
-## Latest Blog Posts
-
-<!-- TODO -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
 
