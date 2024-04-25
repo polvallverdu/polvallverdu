@@ -33,7 +33,10 @@
 <a href="https://polv.dev" target="_blank">
 <img src="https://img.shields.io/badge/polv.dev-1d1d1d?style=for-the-badge&logo=internet&logoColor=white" alt="Website">
 </a>
-
+  <span style="width: 8px;"> </span>
+<a href="https://soundcloud.com/pol_vallverdu" target="_blank">
+<img src="https://img.shields.io/badge/pol_vallverdu-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud">
+</a>
 </div>
 
 ## About Me
@@ -62,7 +65,10 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 <img src="https://img.shields.io/badge/Svelte-ff3f00?style=for-the-badge&logo=svelte&logoColor=white"> 
 <img src="https://img.shields.io/badge/SvelteKit-ff3f00?style=for-the-badge&logo=svelte&logoColor=white"> 
 <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"> 
 <img src="https://img.shields.io/badge/Springboot-6db240?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
 <img src="https://img.shields.io/badge/Minecraft-3C8527?style=for-the-badge&logo=minecraft&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spigot API-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white"> 
@@ -86,11 +92,19 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
+
+<h4>Other</h4>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ## Latest Videos
 
-<!-- TODO -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <!-- ## Other Socials -->
 
@@ -103,6 +117,17 @@ If you like what I do, consider supporting me!
 </a>
 
 _Psst: You'll get 💎 Premium benefits. If I was you I would consider it better._
+<br><br>
+<div align="center">
+<a href="https://polv.dev/l/discord" target="_blank">
+<img src="https://invidget.switchblade.xyz/tW539JbHGF" alt="discord">
+</a>
+</div>
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
 
