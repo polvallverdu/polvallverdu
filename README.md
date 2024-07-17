@@ -45,9 +45,12 @@
 
 If you've arrived here, you might have curiosity on what I'm working right now. Here you have some of my projects:
 
-- [Content Creation](https://youtube.com/@pol_vallverdu)
-- [Soundicly](https://soundicly.com)
 - [inmeta.app](https://inmeta.app) _(currently in the kitchen)_
+- [socketless.ws](https://socketless.ws)
+- [Shoplist](https://shoplist.wosher.co) 
+- [Content Creation](https://youtube.com/@pol_vallverdu)
+- [Soundicly](https://soundicly.com) _(currently on maintenance)_
+
 
 ## Latest Videos
 
