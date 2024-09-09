@@ -17,3 +17,4 @@ jobs:
         with:
           channel_id: UCO5URSEarFoa5mI7-qaXllQ
           output_type: html
+          max_videos: 3
