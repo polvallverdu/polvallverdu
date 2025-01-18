@@ -133,7 +133,6 @@ If you like what I do, consider supporting me!
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website">
 </a>
 
-_Psst: You'll get 💎 Premium benefits. If I was you I would consider it better._
 <br><br>
 <div align="center">
 <a href="https://polv.dev/l/discord" target="_blank">
