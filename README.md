@@ -45,10 +45,10 @@
 
 If you've arrived here, you might have curiosity on what I'm working right now. Here you have some of my projects:
 
-- [inmeta.app](https://inmeta.app) _(currently in the kitchen)_
+- [kokoro.ws](https://kokoro.ws)
 - [socketless.ws](https://socketless.ws)
-- [Shoplist](https://shoplist.wosher.co) 
 - [Content Creation](https://youtube.com/@pol_vallverdu)
+- [Shoplist](https://shoplist.wosher.co) 
 - [Soundicly](https://soundicly.com) _(currently on maintenance)_
 
 
