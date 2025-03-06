@@ -47,6 +47,7 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 - [kokoro.ws](https://kokoro.ws)
 - [socketless.ws](https://socketless.ws)
+- [bashbuddy.run](https://bashbuddy.run)
 - [Content Creation](https://youtube.com/@pol_vallverdu)
 - [Shoplist](https://shoplist.wosher.co) 
 - [Soundicly](https://soundicly.com) _(currently on maintenance)_
