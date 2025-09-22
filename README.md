@@ -57,9 +57,9 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 <div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/wQguw2evtSo"><img src="https://ytcards.demolab.com/?id=wQguw2evtSo&title=%F0%9F%93%90+Operaciones+b%C3%A1sicas+en+programaci%C3%B3n&lang=en&timestamp=1758564057&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="📐 Operaciones básicas en programación" title="📐 Operaciones básicas en programación"></a>
 <a href="https://www.youtube.com/shorts/4lHKnY1jeuM"><img src="https://ytcards.demolab.com/?id=4lHKnY1jeuM&title=Variables+en+programaci%C3%B3n&lang=en&timestamp=1758477605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Variables en programación" title="Variables en programación"></a>
 <a href="https://www.youtube.com/shorts/u74ZqjhDyv0"><img src="https://ytcards.demolab.com/?id=u74ZqjhDyv0&title=Instrucciones+en+programaci%C3%B3n&lang=en&timestamp=1758391250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Instrucciones en programación" title="Instrucciones en programación"></a>
-<a href="https://www.youtube.com/watch?v=asZI5dIXoUs"><img src="https://ytcards.demolab.com/?id=asZI5dIXoUs&title=Conceptos+de+programaci%C3%B3n+en+6+minutos&lang=en&timestamp=1758127168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Conceptos de programación en 6 minutos" title="Conceptos de programación en 6 minutos"></a>
 <!-- END YOUTUBE-CARDS -->
 </div>
 
