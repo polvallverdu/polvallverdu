@@ -57,9 +57,9 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 <div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/zbSO79ztw0I"><img src="https://ytcards.demolab.com/?id=zbSO79ztw0I&title=%F0%9F%94%81+Bucles+en+programaci%C3%B3n&lang=en&timestamp=1758909678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="🔁 Bucles en programación" title="🔁 Bucles en programación"></a>
 <a href="https://www.youtube.com/shorts/gDKHV1RdAIQ"><img src="https://ytcards.demolab.com/?id=gDKHV1RdAIQ&title=Arrays+y+Listas+en+programaci%C3%B3n&lang=en&timestamp=1758823243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Arrays y Listas en programación" title="Arrays y Listas en programación"></a>
 <a href="https://www.youtube.com/shorts/eUwefDfPkNE"><img src="https://ytcards.demolab.com/?id=eUwefDfPkNE&title=If+y+Else+en+programaci%C3%B3n&lang=en&timestamp=1758736844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="If y Else en programación" title="If y Else en programación"></a>
-<a href="https://www.youtube.com/shorts/9l81nLJ9GxQ"><img src="https://ytcards.demolab.com/?id=9l81nLJ9GxQ&title=Comparaciones+en+programaci%C3%B3n&lang=en&timestamp=1758650407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Comparaciones en programación" title="Comparaciones en programación"></a>
 <!-- END YOUTUBE-CARDS -->
 </div>
 
