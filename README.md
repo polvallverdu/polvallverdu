@@ -57,9 +57,9 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 <div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/uVic7-76IQY"><img src="https://ytcards.demolab.com/?id=uVic7-76IQY&title=%C2%BFQu%C3%A9+es+OOP+y+por+qu%C3%A9+es+tan+%C3%BAtil%3F&lang=en&timestamp=1759514463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="¿Qué es OOP y por qué es tan útil?" title="¿Qué es OOP y por qué es tan útil?"></a>
 <a href="https://www.youtube.com/watch?v=BOWRcr2tZ6I"><img src="https://ytcards.demolab.com/?id=BOWRcr2tZ6I&title=Clases+y+Objetos+en+5+minutos&lang=en&timestamp=1759341618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Clases y Objetos en 5 minutos" title="Clases y Objetos en 5 minutos"></a>
 <a href="https://www.youtube.com/shorts/xroUT9Xjn4E"><img src="https://ytcards.demolab.com/?id=xroUT9Xjn4E&title=Funciones+en+programaci%C3%B3n&lang=en&timestamp=1758996053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Funciones en programación" title="Funciones en programación"></a>
-<a href="https://www.youtube.com/shorts/zbSO79ztw0I"><img src="https://ytcards.demolab.com/?id=zbSO79ztw0I&title=%F0%9F%94%81+Bucles+en+programaci%C3%B3n&lang=en&timestamp=1758909678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="🔁 Bucles en programación" title="🔁 Bucles en programación"></a>
 <!-- END YOUTUBE-CARDS -->
 </div>
 
