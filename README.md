@@ -57,9 +57,9 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 <div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/uK8_-ogCyuo"><img src="https://ytcards.demolab.com/?id=uK8_-ogCyuo&title=Que+son+los+M%C3%A9todos+de+una+Clase+en+Programaci%C3%B3n%3F&lang=en&timestamp=1759773662&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Que son los Métodos de una Clase en Programación?" title="Que son los Métodos de una Clase en Programación?"></a>
 <a href="https://www.youtube.com/shorts/p0ju_kYkzfY"><img src="https://ytcards.demolab.com/?id=p0ju_kYkzfY&title=Descubre+c%C3%B3mo+usar+las+propiedades+en+classes&lang=en&timestamp=1759687254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Descubre cómo usar las propiedades en classes" title="Descubre cómo usar las propiedades en classes"></a>
 <a href="https://www.youtube.com/shorts/EvXA7d_HB8U"><img src="https://ytcards.demolab.com/?id=EvXA7d_HB8U&title=Qu%C3%A9+es+una+clase+en+programaci%C3%B3n%3F&lang=en&timestamp=1759600810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Qué es una clase en programación?" title="Qué es una clase en programación?"></a>
-<a href="https://www.youtube.com/shorts/uVic7-76IQY"><img src="https://ytcards.demolab.com/?id=uVic7-76IQY&title=%C2%BFQu%C3%A9+es+OOP+y+por+qu%C3%A9+es+tan+%C3%BAtil%3F&lang=en&timestamp=1759514463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="¿Qué es OOP y por qué es tan útil?" title="¿Qué es OOP y por qué es tan útil?"></a>
 <!-- END YOUTUBE-CARDS -->
 </div>
 
