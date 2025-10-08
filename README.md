@@ -57,9 +57,9 @@ If you've arrived here, you might have curiosity on what I'm working right now. 
 
 <div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/FB8FErbadlg"><img src="https://ytcards.demolab.com/?id=FB8FErbadlg&title=Que+es+un+constructor+en+programaci%C3%B3n%3F&lang=en&timestamp=1759946412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Que es un constructor en programación?" title="Que es un constructor en programación?"></a>
 <a href="https://www.youtube.com/shorts/LySb46P_VHs"><img src="https://ytcards.demolab.com/?id=LySb46P_VHs&title=Clase+vs+Objeto+-+C%C3%BAal+es+la+diferencia%3F&lang=en&timestamp=1759860023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Clase vs Objeto - Cúal es la diferencia?" title="Clase vs Objeto - Cúal es la diferencia?"></a>
 <a href="https://www.youtube.com/shorts/uK8_-ogCyuo"><img src="https://ytcards.demolab.com/?id=uK8_-ogCyuo&title=Que+son+los+M%C3%A9todos+de+una+Clase+en+Programaci%C3%B3n%3F&lang=en&timestamp=1759773662&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Que son los Métodos de una Clase en Programación?" title="Que son los Métodos de una Clase en Programación?"></a>
-<a href="https://www.youtube.com/shorts/p0ju_kYkzfY"><img src="https://ytcards.demolab.com/?id=p0ju_kYkzfY&title=Descubre+c%C3%B3mo+usar+las+propiedades+en+classes&lang=en&timestamp=1759687254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Descubre cómo usar las propiedades en classes" title="Descubre cómo usar las propiedades en classes"></a>
 <!-- END YOUTUBE-CARDS -->
 </div>
 
