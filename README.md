@@ -41,16 +41,13 @@
 
 ## About Me
 
-👋 Hi, I'm Pol! I'm a developer and entrepreneur dedicated to creating and exploring new technologies to make the world a better place. 
+👋 Hi, I'm Pol! I'm a developer and entrepreneur that likes to build cool stuff, and get shit done.
 
 If you've arrived here, you might have curiosity on what I'm working right now. Here you have some of my projects:
 
-- [kokoro.ws](https://kokoro.ws)
-- [socketless.ws](https://socketless.ws)
-- [bashbuddy.run](https://bashbuddy.run)
+- [boreal.chat v2](https://boreal.chat)
+- [nexi-health.com](https://nexi-health.com)
 - [Content Creation](https://youtube.com/@pol_vallverdu)
-- [Shoplist](https://shoplist.wosher.co) 
-- [Soundicly](https://soundicly.com) _(currently on maintenance)_
 
 
 ## Latest Videos
